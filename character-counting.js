@@ -23,13 +23,8 @@ function CharCounter(stringEntered) {
   variable = number of times that character shows up
    that character equals a regular expression
    match that regexp to the string and put in variable
-
    make the object at the property of the character = to the variabl
-
-
-
 }
-
 testString1 = 'yadidadidadiDAH';
 testString2 = 'our team is possibily the best';
 */
